@@ -1,5 +1,5 @@
 {
-  "name": "@caldwell619/react-kanban",
+  "name": "@anythink-ltd/react-kanban",
   "version": "0.0.12",
   "description": "(fork of) Yet another Kanban/Trello board lib for React",
   "scripts": {
@@ -18,14 +18,14 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/christopher-caldwell/react-kanban",
+  "repository": "https://github.com/Anythink-Ltd/react-kanban",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16",
     "react-dom": ">=16",
     "@hello-pangea/dnd": ">=16"
   },
-  "homepage": "https://christopher-caldwell.github.io/react-kanban",
+  "homepage": "https://anythink-ltd.github.io/react-kanban",
   "devDependencies": {
     "@cypress/code-coverage": "3.8.2",
     "@hello-pangea/dnd": "^16.0.1",

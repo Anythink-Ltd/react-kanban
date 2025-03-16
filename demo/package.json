@@ -1,5 +1,5 @@
 {
-  "name": "@caldwell619/react-kanban-demo",
+  "name": "@anythink-ltd/react-kanban-demo",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -11,7 +11,7 @@
     "analyze": "ANALYZE=true yarn build"
   },
   "dependencies": {
-    "@caldwell619/react-kanban": "link:../",
+    "@anythink-ltd/react-kanban": "link:../",
     "@emotion/react": "11.4.1",
     "@emotion/styled": "11.3.0",
     "@faker-js/faker": "^7.5.0",
