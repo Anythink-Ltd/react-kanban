@@ -5,7 +5,7 @@ if [ $? != 0 ]; then
   exit 1
 fi
 
-tsc -p tsconfig.build.json
+npx tsc -p tsconfig.build.json
 
 if [ $? != 0 ]; then
   printf "\n\n$Red$(echo Build failed.)$Color_Off"
